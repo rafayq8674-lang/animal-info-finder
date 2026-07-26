@@ -25,7 +25,7 @@ React + TypeScript — frontend framework
 Vite — build tool
 Hosted and deployed via Google AI Studio's built-in publishing feature
 Screenshots
-(Add these directly in the GitHub README editor by dragging in the images you already have: the search screen with popular species, the African Elephant result screen, and one more search result.)
+
 How to Run the Project Locally
 Clone this repository
 Run npm install to install dependencies
@@ -33,3 +33,13 @@ Add your Gemini API key as an environment variable
 Run npm run dev to start the development server
 Open the local URL shown in the terminal
 Alternatively, the live version can be used directly at the URL above — no setup required.
+<img width="1366" height="768" alt="Screenshot elephant 2" src="https://github.com/user-attachments/assets/59d06de5-a9e3-4c77-85a7-8a5584138b94" />
+<img width="1366" height="728" alt="Screenshot elephant" src="https://github.com/user-attachments/assets/60b0338e-0482-4e86-a9b0-95add287766e" />
+<img width="1366" height="728" alt="Screenshot lion 2" src="https://github.com/user-attachments/assets/c969b0c6-0b5c-4229-b5eb-e541e6b3f317" />
+<img width="1366" height="768" alt="tiger 2" src="https://github.com/user-attachments/assets/d8f3b169-227f-4c7b-a740-9b2f5f3bbf9f" />
+<img width="1366" height="768" alt="tiger" src="https://github.com/user-attachments/assets/fc228d5c-4b53-4ffe-9c01-401f4309976e" />
+
+
+
+
+
